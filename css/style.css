@@ -1,0 +1,17 @@
+
+
+#Footer{
+    height: auto;
+    width: 100%;
+    background-color: rgb(247, 8, 8) ;
+
+    border: 5px outset rgb(0, 0, 0);
+}
+.movies{
+    width: 500px;
+    height:auto;
+    margin-left: 33%;
+    border: 5px outset rgb(0, 0, 0);
+
+}
+
